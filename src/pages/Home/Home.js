@@ -30,7 +30,7 @@ export default function Home() {
     <div className='home'>
       <Search />
       <Slider 
-        id='ad8db1c9-1e64-4532-bf58-820de7f60f35'
+        id='29d54874-490a-4c22-88d4-8b1c52b671e0'
         classificationNumber='L'
         classificationText='Livre para qualquer idade'
       />
