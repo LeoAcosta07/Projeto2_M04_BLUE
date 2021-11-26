@@ -1,0 +1,9 @@
+.store {
+    overflow: hidden;
+  }
+  
+  .store__card {
+    background-color:#181818;
+    color: rgb(185, 185, 185);
+  }
+  

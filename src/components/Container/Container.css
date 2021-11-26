@@ -1,0 +1,15 @@
+.container-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0 0 0;
+  background-color: #181818;
+}
+
+.container-cards {
+  padding: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,8 @@
+.home {
+  overflow: hidden;
+}
+
+.home__card {
+  background-color:#181818;
+  color: rgb(185, 185, 185);
+}
