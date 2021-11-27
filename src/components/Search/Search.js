@@ -16,17 +16,17 @@ export default function Search() {
       <div className='navbar__links'>
           <ul className='navbar__links__list'>
             <li>
-              <a className='items' href='/game/findMany'>
+              <a className='items' href='/store'>
                 <span className='text'>Descobrir</span>
               </a>
             </li>
             <li>
-              <a className='items' href='/wishlist'>
+              <a className='items' href='/store'>
                 <span className='text'>Navegar</span>
               </a>
             </li>
             <li>
-              <a className='items' href='https://www.epicgames.com/site/pt-BR/epic-games-store-faq'>
+              <a className='items' href='store'>
                 <span className='text'>Novidades</span>
               </a>
             </li>
